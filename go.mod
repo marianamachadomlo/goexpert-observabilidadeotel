@@ -1,4 +1,4 @@
-module github.com/marianamachado/observabilidade-otel
+module github.com/marianamachadomlo/goexpert-observabilidadeotel
 
 go 1.22
 
